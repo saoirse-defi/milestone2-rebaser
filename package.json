@@ -1,0 +1,23 @@
+{
+  "name": "milestone2-rebaser",
+  "version": "1.0.0",
+  "description": "<img src=\"https://codeinstitute.s3.amazonaws.com/fullstack/ci_logo_small.png\" style=\"margin: 0;\">",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saoirse-defi/milestone2-rebaser.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saoirse-defi/milestone2-rebaser/issues"
+  },
+  "homepage": "https://github.com/saoirse-defi/milestone2-rebaser#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
